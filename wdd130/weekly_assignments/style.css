@@ -1,0 +1,80 @@
+section {
+    width: 400px;
+    background-color: pink;
+    margin: 0 auto;
+    text-align: center;
+ 
+
+}
+.title {
+    color: white;
+ 
+
+}
+.tile:hover{
+    color: black;
+    padding: 10px;
+}
+
+.quote0{
+    color: white;
+    font-size: xx-small;
+    text-align: center;
+    min-height: 10px auto;
+
+}
+
+.quote1 {
+    color:white;
+    font-size: xx-small;
+    text-align: center;
+    min-height: 10px auto;
+
+ 
+
+}
+.quote2 {
+    color: white;
+    font-size: x-small;
+}
+
+.list {
+    text-align: left;
+    min-height: 15px;
+}
+
+.quote3 {
+    color: white;
+    text-align: center;
+    max-width: 40%;
+    margin: auto;
+    display: block;
+    text-align: center;
+  
+}
+.quote4 {
+
+    margin: auto;
+    max-width: 10px auto;
+    font-size: xx-small;
+    text-align: center;
+    min-height: 10px;
+    
+}
+
+.quote5 {
+    margin: auto;
+    max-width: 10px auto;
+    font-size: xx-small;
+    text-align: center;
+    min-height: 10px auto;
+}
+
+.quote6 {
+    margin: auto;
+    max-width: 10px auto;
+    font-size: xx-small;
+    text-align: center;
+    min-height: 10px auto;
+
+}
