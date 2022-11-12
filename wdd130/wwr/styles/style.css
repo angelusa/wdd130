@@ -204,6 +204,7 @@ nav {
     color: white;
 }
 
+
 main.home-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -276,4 +277,27 @@ main.home-grid {
         margin-top: 25px;
     }
 }
+/*page 2---*/
 
+main.rivers-grid {
+    display: grid;
+	grid: auto / auto auto;
+  
+}
+
+.river1-img {
+    padding-left: 80px;
+    padding-top: 50px;
+
+}
+
+.river2-img {
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+.river3-img {
+    padding-left: 100px;
+    padding-bottom: 50px;
+   
+}
