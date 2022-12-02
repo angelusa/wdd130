@@ -103,7 +103,7 @@ body {
 .image1 {
   position: relative;
   top: 0;
-  left: center;
+  /*left: center;*/
   border: 1px solid #000000;
   margin-top: 10px;
   height: 400px;
@@ -123,7 +123,7 @@ body {
   flex-direction: row;
   justify-content: center;
   justify-items: center;
-  align-items: right;
+  /*align-items: right;*/
 }
 
 #left {
@@ -131,7 +131,7 @@ body {
   /*background-color: #924C3D;*/
   height: 100px;
   min-height: 50px;
-  text-align: bottom left;
+  /*text-align: bottom left;*/
 }
 
 #left a{
