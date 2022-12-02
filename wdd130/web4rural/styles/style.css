@@ -44,7 +44,7 @@ body {
 
 .item3 {
   grid-area: main;
-  background: #a79996;
+  background: rgb(254, 251, 251);
 
 }
 .parent p {
